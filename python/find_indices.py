@@ -3,6 +3,7 @@
 #       0  1  2  3  4   5   6  7   8  9  10  11  12  13
 #Input: 1, 2, 4, 7, 10, 11, 7, 5, 12, 6, 7, 16, 18, 19
 #Output: (3, 10)
+#http://collabedit.com/jk6wt
 
 def find_indices(arr=None):
     m = 0
